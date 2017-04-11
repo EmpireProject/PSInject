@@ -1,4 +1,6 @@
-UnmanagedPowerShell
+PSInject
 ===================
 
-Executes PowerShell from an unmanaged process.  With a few modifications, these same techniques can be used when injecting into different processes (i.e. you can cause any process to execute PowerShell if you want).
+Injects PowerShell into any process.  Based off of the work of Lee Christensen's (@tifkin_) [UnmanagedPowerShell](https://github.com/leechristensen/UnmanagedPowerShell) project.
+
+Developed by Lee Christensen (@tifkin_) and Justin Warner (@sixdub)
